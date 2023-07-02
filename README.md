@@ -148,7 +148,10 @@ NOTA: Para la primera parte, el código lee directamente el código Brainfuck de
 
 # Conclusiones
 
-# Anexos
+- El proceso de traducción del código Brainfuck a código C implica un pseudo desarrollo de un parser y lexer. Si bien no fueron implementados en flex-bison. Estos simulan el comportamiento tomando los tokens requeridos por el brainfuck (< > [ ] , . - +) mientras que el parser verifica la estructura del código y genera el valor esperado, mas no procesando un árbol de análisis. 
+
+- La implementación demuestra la capacidad de transformar una abstracción (Brainfuck) en otro lenguaje más estructurado y familiar (C). Esta transformación implica el mapeo de instrucciones y estructuras de control de Brainfuck a código C equivalente.
+
 
 # Bibliografía
 
