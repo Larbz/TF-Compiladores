@@ -21,6 +21,13 @@ BrainFuck es un lenguaje de programación desarrollado por Urban Muller, y está
 
 # Desarrollo
 
+Diagrama de clase
+
+<img src="./assets/DiagramaClase.png"/>
+
+Diagrama de flujo
+
+<img src="./assets/Diagramaflujo.jpg"/>
 # Pruebas
 
 Los testing se harán de dos formas. Usando el código que genera el código de BrainFuck a C, y usando el código que genera el string result de BrainFuck a String.
