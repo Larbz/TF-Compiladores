@@ -1,5 +1,5 @@
 # Exposición: https://www.youtube.com/watch?v=iLUIo7DoACA
-# Trabajo Final Machine Learning
+# Trabajo Final Teoría de Compiladores
 ### Curso: Teoría de Compiladores
 ### Sección CC61
 ### Profesor: Canaval Sánchez, Luis Martín
