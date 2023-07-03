@@ -9,7 +9,7 @@
 
 # Introducción
 
-El presente trabajo busca desarrollar un compilador para el lenguaje esotérico BrainF.
+El presente trabajo busca desarrollar un compilador para el lenguaje esotérico BrainF. Además poder utilizar llvm para obtener una compilación más óptima.
 
 # Marco Teórico
 
